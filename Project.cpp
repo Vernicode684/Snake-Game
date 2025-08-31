@@ -5,9 +5,14 @@
 #include "Player.h"
 #include "Food.h"
 
+
+
+
 using namespace std;
 
+
 #define DELAY_CONST 100000 //gmaeloop delay constat
+
 
 //global pounters for the game ojects
 GameMechs* gameMechs = nullptr;  //game mech objecy
@@ -73,12 +78,16 @@ void Initialize(void)
 
 void GetInput(void)
 {
-    //check if there is any user input
+
+
     if (MacUILib_hasChar()) {
-        char newInput = MacUILib_getChar(); //read the input character
-        gameMechs->setInput(newInput); //store input for processing
+        char newInput = MacUILib_getChar();
+        gameMechs->setInput(newInput);
+        MacUILib_printf("Key pressed: %c\n", newInput);
     }
+    
 }
+
 
 
 void RunLogic(void){

@@ -1,6 +1,6 @@
 # 🐍 Snake Game
 
-<img align="right" src="Snake Game.png" alt="Snake Game Logo" width="120" />
+<img src="Snake Game.png" alt="Snake Game Logo" width="250"/>
 
 Welcome to the Snake Game project! This is a classic arcade-style game where the player controls a snake to collect food, grow longer, and avoid collisions with walls or itself.
 
@@ -15,4 +15,5 @@ Welcome to the Snake Game project! This is a classic arcade-style game where the
 Clone this repository:
 
 ```bash
-git clone https://github.com/botrov1/snake-game.git
+git clone https://github.com/Vernicode684/Snake-Game.git
+
