@@ -1,4 +1,4 @@
-# 🐍 Snake Game <img align="right" src="Snake Game.png" alt="Snake Game Logo" width="120" style="margin-bottom: 50px;" />
+# 🐍 Snake Game <img align="right" src="Snake Game.png" alt="Snake Game Logo" width="120" />
 
 <p style="margin-bottom: 20px;">
 Welcome to the Snake Game project! This is a classic arcade-style game where the player controls a snake to collect food, grow longer, and avoid collisions with walls or itself.
