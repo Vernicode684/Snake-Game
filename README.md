@@ -7,7 +7,6 @@ Welcome to the Snake Game project! This is a classic arcade-style game where the
 
 
 <br>
-<br>
 
 ## 🚀 Features
 - **Smooth Controls**: Move the snake using `w`, `a`, `s`, `d` keys.
